@@ -3,8 +3,7 @@
 esports web platform
 in development
 
-current progress:
-
-UI: 20%
-infrastructure: 0%
-database: 0%
+project status (3/11/21):
+homepage: 60%
+login page: 1%
+the rest: 0%
