@@ -6,3 +6,9 @@
 @use "@material/icon-button";
 
 @include icon-button.core-styles;
+
+@use "@material/notched-outline/mdc-notched-outline";
+@use "@material/textfield";
+@include textfield.core-styles;
+
+@use "@material/button/styles";

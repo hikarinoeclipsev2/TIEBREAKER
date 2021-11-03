@@ -9,3 +9,11 @@ const topAppBar = new MDCTopAppBar(topAppBarElement);
 
 import {MDCBanner} from '@material/banner';
 const banner = new MDCBanner(document.querySelector('.mdc-banner'));
+
+import {MDCRipple} from '@material/ripple';
+
+const buttonRipple = new MDCRipple(document.querySelector('.mdc-button'));
+
+import {MDCTextField} from '@material/textfield';
+
+const textField = new MDCTextField(document.querySelector('.mdc-text-field'));
